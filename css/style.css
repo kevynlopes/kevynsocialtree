@@ -3,6 +3,10 @@
   color: #bb99dd;
 }
 
+body {
+  background-color: #faf7fd;
+}
+
 .container {
   margin-top: 100px;
   display: flex;
